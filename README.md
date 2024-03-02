@@ -1,3 +1,3 @@
-# Friendtech Subgraph
+# SoFi Subgraphs
 
-This repository contains the code for the Friendtech Subgraph using [The Graph](https://thegraph.com/).
+This repository contains the code for the SoFi Subgraphs using [The Graph](https://thegraph.com/).
